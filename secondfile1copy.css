@@ -1,0 +1,48 @@
+.main-color{
+    background-color: #d9534f;  
+}
+
+#myheader{
+    background:url("header.png") no-repeat center top fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px; 
+}
+
+#myheader .myoverlay{
+    background-color:rgba(217, 83, 79, 0.6);
+    width: 100%;
+    min-height: 700px; 
+}
+
+.sf{
+    margin-top: -17px;
+  }
+  
+  #myshirt{
+    margin-top: -25px;
+  }
+
+  #mybag{
+    margin-top: -25px;
+  }
+
+  #mycontact {
+    background: url("my-bg-footer.png") no-repeat center top fixed;
+    background-size: cover;
+    min-height: 700px;
+    margin-top: -25px;
+ }
+
+
+ #mycontact .myoverlay {
+    background-color: rgba(14, 13, 13, 0.9);
+    width: 100%;
+    min-height: 700px; 
+    background-color: rgba(14, 13, 13, 0.9);
+    }
+
+
+
+
+
